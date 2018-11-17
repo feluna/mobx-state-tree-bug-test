@@ -1,0 +1,22 @@
+{
+  "name": "mobx-state-tree-bug-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Umut Ozan Yıldırım",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^5.6.0",
+    "mobx-state-tree": "^3.7.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.1.6",
+    "babel-jest": "23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "jest": "23.6.0"
+  }
+}
